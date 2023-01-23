@@ -1,0 +1,2 @@
+class Ahtresidential < ApplicationRecord
+end
